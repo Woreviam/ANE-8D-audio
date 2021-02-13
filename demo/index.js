@@ -60,7 +60,7 @@ function start (audioContext, shouldBuffer) {
   // a back up in case MP3 isn't supported.
   var sources = [
     'demo/in.wav',
-    'demo/in.ogg'
+    'demo/in.wav'
   ]
 
   // Create a looping audio player with our audio context.
