@@ -59,8 +59,8 @@ function start (audioContext, shouldBuffer) {
   // List of sources, usually good to provide
   // a back up in case MP3 isn't supported.
   var sources = [
-    'demo/bluejean_short.mp3',
-    'demo/bluejean_short.ogg'
+    'demo/in.wav',
+    'demo/in.ogg'
   ]
 
   // Create a looping audio player with our audio context.

@@ -1,4 +1,4 @@
-require('../')('./demo/bluejean_short.mp3', {
+require('../')('./demo/in.wav', {
   buffer: false
 }).on('error', function (err) {
   console.error('GOT ERROR', err.message)

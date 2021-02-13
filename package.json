@@ -1,13 +1,13 @@
 {
-  "name": "ANE-8D-audio",
-  "version": "1.3.3",
-  "description": "a 8D audio application",
+  "name": "web-audio-player",
+  "version": "1.3.2",
+  "description": "a cross-browser WebAudio player",
   "main": "index.js",
   "license": "MIT",
   "author": {
-    "name": "",
-    "email": "",
-    "url": ""
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
   },
   "dependencies": {
     "browser-media-mime-type": "^1.0.0",
@@ -57,10 +57,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/Woreviam/ANE-8D-audio"
+    "url": "git://github.com/Jam3/web-audio-player.git"
   },
-  "homepage": "https://github.com/Woreviam/ANE-8D-audio"
+  "homepage": "https://github.com/Jam3/web-audio-player",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Jam3/web-audio-player/issues"
   }
 }
